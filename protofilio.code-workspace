@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/node_modules": true,
+      "**/.git": true,
+      "project-export.zip": false
+    },
+    "window.openFilesInNewWindow": "off",
+    "workbench.startupEditor": "none",
+    "liveServer.settings.port": 5501
+  }
+}
